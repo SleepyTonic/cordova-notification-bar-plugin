@@ -9,7 +9,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 
-import org.sleepytonic.HelloCordovaTouch.R;
+//change this to your application's Java package 
+import com.your.app.R;
 
 public class StatusNotificationIntent {
     public static Notification buildNotification( Context context, CharSequence tag, CharSequence contentTitle, CharSequence contentText, int flag ) {

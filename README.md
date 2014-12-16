@@ -7,12 +7,15 @@ This project has been forked from https://github.com/phonegap/phonegap-plugins/b
 ## Setup ##
 
 1) Install the plugin:
+
     cordova plugin add https://github.com/SleepyTonic/cordova-notification-bar-plugin.git
     
-2) Edit StatusNotificationIntent.java import to your android app package:
+2) Edit `StatusNotificationIntent.java` import to your android app package:
+
     import com.your.app.R;
 
-3) Copy notification icons from the plugin's resource/android folder to the android application source res folder:
+3) Copy notification icons from the plugin's `resource/android` folder to the android application source `res` folder:
+
     resources/android/drawable-hdpi/
     resources/android/drawable-mdpi/
     resources/android/drawable-xhdpi/

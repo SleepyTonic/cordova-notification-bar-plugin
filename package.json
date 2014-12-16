@@ -1,11 +1,11 @@
 {
-    "version": "0.2.11",
-    "name": "org.apache.cordova.dialogs",
+    "version": "0.0.1",
+    "name": "org.sleepytonic.cordova.plugins.notification",
     "cordova_name": "Notification",
     "description": "Cordova Notification Plugin",
     "license": "Apache 2.0",
-    "repo": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-dialogs.git",
-    "issue": "https://issues.apache.org/jira/browse/CB/component/12320642",
+    "repo": "https://github.com/SleepyTonic/cordova-notification-bar-plugin",
+    "issue": "",
     "keywords": [
         "cordova",
         "notification"

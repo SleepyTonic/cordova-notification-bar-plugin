@@ -8,7 +8,7 @@
     <description>Cordova Statusbar Notification Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,notification</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-dialogs.git</repo>
+    <repo>https://github.com/SleepyTonic/cordova-notification-bar-plugin</repo>
     <!--issue>https://issues.apache.org/jira/browse/CB/component/12320642</issue-->
 
     <!--js-module src="www/notification.js" name="notification">
@@ -52,7 +52,4 @@
         </js-module>
 
     </platform>
-
-
-
 </plugin>
